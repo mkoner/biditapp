@@ -1,0 +1,37 @@
+#listed-items{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+
+}
+body{
+font-family: 'Pompiere', cursive;
+font-size: 1.5rem;
+font-weight: 3rem;
+}
+
+button {
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 0.5rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: ;
+  cursor: pointer;
+  margin: 3rem;
+}
+
+input, select,textarea {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 2rem 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+h2{
+  text-align: center;
+}

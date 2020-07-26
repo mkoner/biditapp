@@ -1,0 +1,19 @@
+.admin-form-login{
+	border: 2px none;
+	border-radius: 5px;
+	background-color: rgb(57,57,180);
+	padding: 5rem;
+	margin: 5rem 25rem;
+	
+}
+
+.admin-myform{
+  text-align: center;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+h3{
+	font-family: 'Cormorant Garamond', serif;
+	color: #fffefa;
+}

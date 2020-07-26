@@ -1,0 +1,34 @@
+div p, #item-title{
+	margin: 5px;
+}
+.card{
+	text-align: center;
+	display: inline-block;
+	margin: 0.5rem;
+	background: #fffff9;
+	cursor: pointer;
+	
+}
+.card:hover{
+	box-shadow: 0.1rem 0.1rem #888888;
+	border-radius: 0.5rem;
+}
+.img-container{
+	margin:0.7rem;
+}
+.img-container:hover{
+	transform: scale(1.05);
+	transition: transform 1s;
+}
+h4{
+	font-family: 'Cormorant Garamond', serif;
+
+}
+.spcard{
+	color: #f64c72;
+	font-size: 2rem;
+}
+.winner{
+	color:#0feeff;
+	font-size: 1.8rem;
+}
